@@ -1,0 +1,11 @@
+/.idea/
+/target/
+*.iml
+/infrastructure/prod/node_modules/
+/infrastructure/cdk.out/
+/infrastructure/prod/index.js
+/infrastructure/prod/cdk.context.json
+/infrastructure/dev/node_modules/
+/infrastructure/dev/cdk.out/
+/infrastructure/dev/index.js
+/infrastructure/prod/cdk.out/
